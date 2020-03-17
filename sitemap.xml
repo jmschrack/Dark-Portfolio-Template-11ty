@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  
+  <url>
+    <loc>https://myurl.com/Dark-Portfolio-Template-11ty/posts/firstpost/</loc>
+    <lastmod>2018-05-01</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://myurl.com/Dark-Portfolio-Template-11ty/posts/secondpost/</loc>
+    <lastmod>2018-07-04</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://myurl.com/Dark-Portfolio-Template-11ty/posts/thirdpost/</loc>
+    <lastmod>2018-08-24</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://myurl.com/Dark-Portfolio-Template-11ty/posts/fourthpost/</loc>
+    <lastmod>2018-09-30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://myurl.com/Dark-Portfolio-Template-11ty/about/</loc>
+    <lastmod>2020-03-17</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://myurl.com/Dark-Portfolio-Template-11ty/posts/</loc>
+    <lastmod>2020-03-17</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://myurl.com/Dark-Portfolio-Template-11ty/</loc>
+    <lastmod>2020-03-17</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://myurl.com/Dark-Portfolio-Template-11ty/page-list/</loc>
+    <lastmod>2020-03-17</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://myurl.com/Dark-Portfolio-Template-11ty/tags/</loc>
+    <lastmod>2020-03-17</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://myurl.com/Dark-Portfolio-Template-11ty/tags/another-tag/</loc>
+    <lastmod>2020-03-17</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://myurl.com/Dark-Portfolio-Template-11ty/tags/second-tag/</loc>
+    <lastmod>2020-03-17</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://myurl.com/Dark-Portfolio-Template-11ty/tags/number-2/</loc>
+    <lastmod>2020-03-17</lastmod>
+  </url>
+</urlset>
