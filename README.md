@@ -2,26 +2,20 @@
 
 A starter repository showing how to build a blog with the [Eleventy](https://github.com/11ty/eleventy) static site generator.
 
-[![Build Status](https://travis-ci.org/11ty/eleventy-base-blog.svg?branch=master)](https://travis-ci.org/11ty/eleventy-base-blog)
+[![Build Status](https://travis-ci.org/jmschrack/dark-portfolio-template-11ty.svg?branch=dev)](https://travis-ci.org/jmschrack/dark-portfolio-template-11ty)
 
 ## Demos
 
-* [Netlify](https://eleventy-base-blog.netlify.com/)
-* [GitHub Pages](https://11ty.github.io/eleventy-base-blog/)
+* [GitHub Pages](https://jmschrack.github.io/Dark-Portfolio-Template-11ty/)
 
-## Deploy this to your own site
 
-These builders are amazing—try them out to get your own Eleventy site in a few clicks!
-
-* [Get your own Eleventy web site on Netlify](https://app.netlify.com/start/deploy?repository=https://github.com/11ty/eleventy-base-blog)
-* [Get your own Eleventy web site on ZEIT Now](https://zeit.co/new/project?template=11ty/eleventy-base-blog)
 
 ## Getting Started
 
 ### 1. Clone this Repository
 
 ```
-git clone https://github.com/11ty/eleventy-base-blog.git my-blog-name
+git clone https://github.com/jmschrack/Dark-Portfolio-Template-11ty.git my-blog-name
 ```
 
 
