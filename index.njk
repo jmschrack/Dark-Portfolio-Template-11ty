@@ -1,9 +1,19 @@
 ---
 layout: layouts/home.njk
+fa-icon: 'fa-home'
 eleventyNavigation:
   key: Home
   order: 1
+  
 ---
+<header class="w3-container w3-padding-32 w3-center w3-black" id="home">
+ <h1 class="w3-jumbo">{{ metadata.title }}</h1>
+  <p>Photographer and Web Designer.</p>
+  <img src="{{ 'img/w3images/man_smoke.jpg' | url }}" alt="boy" class="w3-image" width="992" height="1108">
+</header>
+
+{% include "photos.njk" %}
+
 
 <h1>Latest 3 Posts</h1>
 
