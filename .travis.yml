@@ -5,7 +5,7 @@ before_script:
   - npm install @11ty/eleventy -g
 script: eleventy --pathprefix="/Dark-Portfolio-Template-11ty/"
 deploy:
-# fqdn: yourwebsitename.com
+  fqdn: jmschrack.dev
   local-dir: _site
   provider: pages
   skip-cleanup: true
