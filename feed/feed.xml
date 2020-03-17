@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-	<title>Your Blog Name</title>
+	<title>I&#39;m John Doe.</title>
 	<subtitle>I am writing about my experiences as a naval navel-gazer.</subtitle>
 	
 	<link href="https://myurl.com/Dark-Portfolio-Template-11ty/feed/feed.xml" rel="self"/>

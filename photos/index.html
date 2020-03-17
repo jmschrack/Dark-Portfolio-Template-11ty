@@ -33,7 +33,7 @@
   <!-- Avatar image in top left corner -->
   <img src="img/w3images/avatar_smoke.jpg" style="width:100%">
     
-    <a href="/Dark-Portfolio-Template-11ty/" class="w3-bar-item w3-button w3-padding-large  w3-black ">
+    <a href="/Dark-Portfolio-Template-11ty/" class="w3-bar-item w3-button w3-padding-large  w3-hover-black ">
       <i class="fa fa-home w3-xxlarge"></i>
       <p>Home</p>
     </a>
@@ -82,20 +82,7 @@
         <p><em>This is an <a href="https://www.11ty.io/">Eleventy project</a> created from the <a href="https://github.com/11ty/eleventy-base-blog"><code>eleventy-base-blog</code> repo</a>.</em></p>
       </div>
 
-      <header class="w3-container w3-padding-32 w3-center w3-black" id="home">
- <h1 class="w3-jumbo">I&#39;m John Doe.</h1>
-  <p>Photographer and Web Designer.</p>
-  <img src="img/w3images/man_smoke.jpg" alt="boy" class="w3-image" width="992" height="1108">
-</header>
-
----
-layout: layouts/home.njk
-eleventyNavigation:
-  key: Photos
-  order: 3
-  url: \#photos
----
-
+      
 <!-- Portfolio Section -->
   <div class="w3-padding-64 w3-content" id="photos">
     <h2 class="w3-text-light-grey">My Photos</h2>
@@ -120,44 +107,10 @@ eleventyNavigation:
   <!-- End Portfolio Section -->
   </div>
 
-
-<h1>Latest 3 Posts</h1>
-
-
-
-<ol reversed class="postlist" style="counter-reset: start-from 5">
-
-  <li class="postlist-item">
-    <a href="/Dark-Portfolio-Template-11ty/posts/fourthpost/" class="postlist-link">This is my fourth post.</a>
-    <time class="postlist-date" datetime="2018-09-30">30 Sep 2018</time>
-    
-      <a href="/Dark-Portfolio-Template-11ty/tags/second-tag/" class="tag">second-tag</a>
-  </li>
-
-  <li class="postlist-item">
-    <a href="/Dark-Portfolio-Template-11ty/posts/thirdpost/" class="postlist-link">This is my third post.</a>
-    <time class="postlist-date" datetime="2018-08-24">24 Aug 2018</time>
-    
-      <a href="/Dark-Portfolio-Template-11ty/tags/second-tag/" class="tag">second-tag</a>
-  </li>
-
-  <li class="postlist-item">
-    <a href="/Dark-Portfolio-Template-11ty/posts/secondpost/" class="postlist-link">This is my second post.</a>
-    <time class="postlist-date" datetime="2018-07-04">04 Jul 2018</time>
-    
-      <a href="/Dark-Portfolio-Template-11ty/tags/number-2/" class="tag">number-2</a>
-  </li>
-
-</ol>
-
-
-<p>More posts can be found in <a href="/Dark-Portfolio-Template-11ty/posts/">the archive</a>.</p>
-
-
     </main>
 
     <footer></footer>
 
-    <!-- Current page: /Dark-Portfolio-Template-11ty/ -->
+    <!-- Current page: /Dark-Portfolio-Template-11ty/photos/ -->
   </body>
 </html>
