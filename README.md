@@ -2,7 +2,7 @@
 
 A starter repository showing how to build a blog with the [Eleventy](https://github.com/11ty/eleventy) static site generator.
 
-[![Build Status](https://travis-ci.org/jmschrack/dark-portfolio-template-11ty.svg?branch=dev)](https://travis-ci.org/jmschrack/dark-portfolio-template-11ty)
+[![Build Status](https://travis-ci.com/jmschrack/Dark-Portfolio-Template-11ty.svg?branch=dev)](https://travis-ci.org/jmschrack/dark-portfolio-template-11ty)
 
 ## Demos
 
