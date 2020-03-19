@@ -18,7 +18,11 @@
   /* Add a left margin to the "page content" that matches the width of the sidebar (120px) */
   #main {margin-left: 120px}
   /* Remove margins from "page content" on small screens TODO add back in*/
+  {% raw %}
   
+  @media only screen and (max-width:600px) {#main { margin-left:0}}
+  
+  {% endraw %}
   
   
   </style>
