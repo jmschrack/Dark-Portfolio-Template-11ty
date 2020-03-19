@@ -97,11 +97,6 @@
   </url>
   
   <url>
-    <loc>https://myurl.com/Dark-Portfolio-Template-11ty/tags/notphoto/</loc>
-    <lastmod>2020-03-19</lastmod>
-  </url>
-  
-  <url>
     <loc>https://myurl.com/Dark-Portfolio-Template-11ty/tags/photo/</loc>
     <lastmod>2020-03-19</lastmod>
   </url>
@@ -113,6 +108,11 @@
   
   <url>
     <loc>https://myurl.com/Dark-Portfolio-Template-11ty/tags/second-tag/</loc>
+    <lastmod>2020-03-19</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://myurl.com/Dark-Portfolio-Template-11ty/tags/notphoto/</loc>
     <lastmod>2020-03-19</lastmod>
   </url>
   
