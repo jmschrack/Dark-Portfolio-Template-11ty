@@ -1,6 +1,7 @@
-# eleventy-base-blog
+# Dark-Portfolio-Template-11ty
 
 A starter repository showing how to build a blog with the [Eleventy](https://github.com/11ty/eleventy) static site generator.
+Uses the W3CSS template "Dark Portfolio Template"
 
 [![Build Status](https://travis-ci.com/jmschrack/Dark-Portfolio-Template-11ty.svg?branch=dev)](https://travis-ci.org/jmschrack/dark-portfolio-template-11ty)
 
