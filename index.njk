@@ -12,7 +12,28 @@ eleventyNavigation:
   <img src="{{ 'img/w3images/man_smoke.jpg' | url }}" alt="boy" class="w3-image" width="992" height="1108">
 </header>
 
-{% include "photos.njk" %}
+<!-- Portfolio Section -->
+  <div class="w3-padding-64 w3-content" id="photos">
+    <h2 class="w3-text-light-grey">My Photos</h2>
+    <hr style="width:200px" class="w3-opacity">
+
+    <!-- Grid for photos -->
+    <div class="w3-row-padding" style="margin:0 -16px">
+    <div class="w3-half">
+    {% for post in collections.photo | head(-8) %}
+      {% if loop.index==4 %}
+      </div><div class="w3-half">
+      {% endif %}
+        <img src = "{{ post.data.image | url }}" style="width:100%" > 
+        
+    {% endfor %}
+    
+    </div>
+     
+    <!-- End photo grid -->
+    </div>
+  <!-- End Portfolio Section -->
+  </div>
 
 
 <h1>Latest 3 Posts</h1>
