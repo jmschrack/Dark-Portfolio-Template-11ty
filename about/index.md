@@ -1,6 +1,7 @@
 ---
 layout: layouts/post.njk
 title: About Me
+permalink: false
 templateClass: tmpl-post
 eleventyNavigation:
   key: About
@@ -8,6 +9,6 @@ eleventyNavigation:
   url: \#about
 ---
 
-## My Name
-___
-Some text about me. Some text about me. I am lorem ipsum consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
+
+We've overriden the url for use in the main page and set "permalink: false" so this does not get included in the site build.
+
