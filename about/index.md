@@ -6,7 +6,7 @@ templateClass: tmpl-post
 eleventyNavigation:
   key: About
   order: 2
-  url: \#about
+  url: /#about
 ---
 
 
